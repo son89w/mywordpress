@@ -11,27 +11,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://son89w.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 09 Jun 2021 14:58:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 May 2021 03:39:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>
-		Comment on Laptop HP 340s G7 i3 by Hoàng Châu		</title>
-		<link>https://son89w.github.io/mywordpress/laptop/laptop-hp-340s-g7-i3/#comment-8</link>
-
-		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
-		<pubDate>Wed, 09 Jun 2021 14:58:02 +0000</pubDate>
-		<guid isPermaLink="false">https://son89w.github.io/mywordpress/?p=30#comment-8</guid>
-
-					<description><![CDATA[hay]]></description>
-			<content:encoded><![CDATA[<p>hay</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
 		<title>
 		Comment on Chào tất cả mọi người! by Hoàng Châu		</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-3</link>
