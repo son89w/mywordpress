@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; My Wordpress &#8212; WordPress</title>
+	<title>Log In &lsaquo; My Wordpress &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://son89w.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
@@ -13,45 +13,45 @@
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
-	<body class="login no-js login-action-login wp-core-ui  locale-vi">
+	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
 	</script>
 		<div id="login">
-		<h1><a href="https://vi.wordpress.org/">Xây dựng bằng WordPress</a></h1>
+		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
 		<form name="loginform" id="loginform" action="https://son89w.github.io/mywordpress/wp-login.php" method="post">
 			<p>
-				<label for="user_login">Tên người dùng hoặc Địa chỉ Email</label>
+				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off">
 			</p>
 
 			<div class="user-pass-wrap">
-				<label for="user_pass">Mật khẩu</label>
+				<label for="user_pass">Password</label>
 				<div class="wp-pwd">
 					<input type="password" name="pwd" id="user_pass" class="input password-input" value="" size="20">
-					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Hiện mật khẩu">
+					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Show password">
 						<span class="dashicons dashicons-visibility" aria-hidden="true"></span>
 					</button>
 				</div>
 			</div>
-						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Tự động đăng nhập</label></p>
+						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
-				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
 									<input type="hidden" name="redirect_to" value="https://son89w.github.io/mywordpress/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
 
 					<p id="nav">
-								<a href="https://son89w.github.io/mywordpress/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+								<a href="https://son89w.github.io/mywordpress/tai-khoan/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://son89w.github.io/mywordpress/">&larr; Quay lại My Wordpress</a>		</p>
+			<a href="https://son89w.github.io/mywordpress/">&larr; Go to My Wordpress</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://son89w.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://son89w.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -72,7 +72,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script type="text/javascript" id="password-strength-meter-js-extra">
 /* <![CDATA[ */
-var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rất yếu","bad":"Yếu","good":"Trung bình","strong":"Mạnh","mismatch":"Mật khẩu không khớp"};
+var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="password-strength-meter-js-translations">
@@ -80,7 +80,7 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
 <script type="text/javascript" src="https://son89w.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://son89w.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
@@ -100,7 +100,7 @@ var userProfileL10n = {"user_id":"0","nonce":"a653594d42"};
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
 <script type="text/javascript" src="https://son89w.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
 	<div class="clear"></div>

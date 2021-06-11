@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
+	Comments for My WordPress	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://son89w.github.io/mywordpress</link>
 	<description>Nguyễn Hoàng Châu</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Laptop ASUS ROG ZEPHYRUS DUO 15 GX551 bởi Hoàng Châu		</title>
+		Comment on Laptop ASUS ROG ZEPHYRUS DUO 15 GX551 by Hoàng Châu		</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-9</link>
 
 		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Hoàng Châu		</title>
+		Comment on Chào tất cả mọi người! by Hoàng Châu		</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-3</link>
 
 		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
@@ -47,7 +47,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi son		</title>
+		Comment on Chào tất cả mọi người! by son		</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-2</link>
 
 		<dc:creator><![CDATA[son]]></dc:creator>
@@ -61,7 +61,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		Comment on Chào tất cả mọi người! by Một người bình luận WordPress		</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
