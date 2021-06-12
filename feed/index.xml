@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://son89w.github.io/mywordpress</link>
 	<description>Nguyễn Hoàng Châu</description>
-	<lastBuildDate>Fri, 11 Jun 2021 16:34:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 13:21:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 	<item>
 		<title>Laptop ASUS ROG ZEPHYRUS DUO 15 GX551</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/</link>
-					<comments>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/#comments</comments>
+					<comments>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/#respond</comments>
 		
 		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
 		<pubDate>Fri, 11 Jun 2021 16:34:12 +0000</pubDate>
@@ -31,6 +31,7 @@
 
 					<description><![CDATA[GIỚI THIỆU VÀ ĐÁNH GIÁ ASUS ROG ZEPHYRUS DUO 15 GX551 1 &#8211; GIỚI THIỆU CHUNG ASUS ROG ZEPHYRUS DUO 15 &#8230; ]]></description>
 										<content:encoded><![CDATA[<h2 title="ASUS ExpertBook B9450FA-BM0616R (Grey) | i7-10510U | 16GB DDR4 | SSD 1TB | VGA Onboard | 14 FHD | Win10 [DEAL GIÁ MUA]"><span style="font-family: 'arial black', sans-serif;"><strong>GIỚI THIỆU VÀ ĐÁNH GIÁ ASUS ROG ZEPHYRUS DUO 15 GX551</strong></span></h2>
+<p><iframe loading="lazy" title="Giới thiệu ASUS ROG Zephyrus Duo 15 - Hangchinhhieu.vn" width="750" height="422" src="https://www.youtube.com/embed/iIOx2hogVGY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <h3><strong>1 &#8211; GIỚI THIỆU CHUNG</strong></h3>
 <p><strong>ASUS ROG ZEPHYRUS DUO 15 GX551</strong> là dòng sản phẩm được giới thiệu và ra mắt thị trường vào quý 3.2020. Sản phẩm mang thiết kế hoàn toàn mới về laptop gaming với 2 màn hình cho nhiều trải nghiệm mới lạ, nhiều tính năng độc đáo và thay đổi xu hướng chơi game trong thời gian tới.<br />
 &#8211; Điểm nổi bật sản phẩm với màn hình Screenpad vừa là màn thứ 2 để làm việc, vừa là màn hình tham chiếu hỗ trợ cho màn hình chính. Màn hình có góc nghiêng 13 độ và tính năng cảm ứng trên màn hình này.<br />
@@ -159,7 +160,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -266,7 +267,7 @@
 		<item>
 		<title>Chào tất cả mọi người!</title>
 		<link>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/</link>
-					<comments>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#comments</comments>
+					<comments>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/#respond</comments>
 		
 		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 07:25:45 +0000</pubDate>
@@ -279,7 +280,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://son89w.github.io/mywordpress/khong-phan-loai/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>3</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
