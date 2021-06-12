@@ -17,19 +17,5 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		By: Hoàng Châu		</title>
-		<link>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-9</link>
-
-		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
-		<pubDate>Fri, 11 Jun 2021 16:37:51 +0000</pubDate>
-		<guid isPermaLink="false">https://son89w.github.io/mywordpress/?p=113#comment-9</guid>
-
-					<description><![CDATA[good]]></description>
-			<content:encoded><![CDATA[<p>good</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
