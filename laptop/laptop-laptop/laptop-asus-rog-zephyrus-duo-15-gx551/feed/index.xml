@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Laptop ASUS ROG ZEPHYRUS DUO 15 GX551	</title>
+	<atom:link href="http://localhost/myproject/wordpress/laptop/laptop-laptop/laptop-asus-rog-zephyrus-duo-15-gx551/feed/" rel="self" type="application/rss+xml" />
+	<link>https://son89w.github.io/mywordpress/laptop/laptop-laptop/laptop-asus-rog-zephyrus-duo-15-gx551/</link>
+	<description>Nguyễn Hoàng Châu</description>
+	<lastBuildDate>Sun, 04 Jul 2021 23:27:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: Hoàng Châu		</title>
+		<link>https://son89w.github.io/mywordpress/laptop/laptop-laptop/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-11</link>
+
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 15:15:53 +0000</pubDate>
+		<guid isPermaLink="false">https://son89w.github.io/mywordpress/?p=113#comment-11</guid>
+
+					<description><![CDATA[hay quá]]></description>
+			<content:encoded><![CDATA[<p>hay quá</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: Hoàng Châu		</title>
+		<link>https://son89w.github.io/mywordpress/laptop/laptop-laptop/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-10</link>
+
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 15:15:36 +0000</pubDate>
+		<guid isPermaLink="false">https://son89w.github.io/mywordpress/?p=113#comment-10</guid>
+
+					<description><![CDATA[good]]></description>
+			<content:encoded><![CDATA[<p>good</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

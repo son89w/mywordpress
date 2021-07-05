@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for My WordPress	</title>
+	Bình luận cho DoLaShop	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://son89w.github.io/mywordpress</link>
 	<description>Nguyễn Hoàng Châu</description>
-	<lastBuildDate>Sat, 12 Jun 2021 15:15:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 23:27:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Comment on Laptop ASUS ROG ZEPHYRUS DUO 15 GX551 by Hoàng Châu		</title>
-		<link>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-11</link>
+		Phản hồi cho Laptop ASUS ROG ZEPHYRUS DUO 15 GX551 bởi Hoàng Châu		</title>
+		<link>https://son89w.github.io/mywordpress/laptop/laptop-laptop/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-11</link>
 
 		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
 		<pubDate>Sat, 12 Jun 2021 15:15:53 +0000</pubDate>
@@ -33,8 +33,8 @@
 			</item>
 		<item>
 		<title>
-		Comment on Laptop ASUS ROG ZEPHYRUS DUO 15 GX551 by Hoàng Châu		</title>
-		<link>https://son89w.github.io/mywordpress/khong-phan-loai/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-10</link>
+		Phản hồi cho Laptop ASUS ROG ZEPHYRUS DUO 15 GX551 bởi Hoàng Châu		</title>
+		<link>https://son89w.github.io/mywordpress/laptop/laptop-laptop/laptop-asus-rog-zephyrus-duo-15-gx551/#comment-10</link>
 
 		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
 		<pubDate>Sat, 12 Jun 2021 15:15:36 +0000</pubDate>

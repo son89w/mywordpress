@@ -8,16 +8,176 @@
 	>
 
 <channel>
-	<title>Products &#8211; My WordPress</title>
+	<title>Sản phẩm &#8211; DoLaShop</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://son89w.github.io/mywordpress</link>
 	<description>Nguyễn Hoàng Châu</description>
-	<lastBuildDate>Sat, 12 Jun 2021 07:03:46 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Mon, 05 Jul 2021 00:25:27 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>Dell Precision M4600</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/dell-precision-m4600/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/dell-precision-m4600/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 00:25:27 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=330</guid>
+
+					<description><![CDATA[Thương hiệu: Dell CPU ( dòng máy có thể hỗ trợ các loại cpu sau) Công nghệ CPU: 2th Gen Intel® Core™ i RAM Dung lượng RAM:8 GB upto Max 32GB Loại RAM: DDR3 Tốc độ BUS: 1333Mhz Đĩa cứng ( Máy có hỗ trợ HDD và SSD ) Dung lượng ổ đĩa: HDD 500GB or 1TB [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/dell-precision-m4600/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HP Elitebook 8560W</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/hp-elitebook-8560w/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/hp-elitebook-8560w/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 00:22:01 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=329</guid>
+
+					<description><![CDATA[Thương hiệu: HP CPU ( dòng máy có thể hỗ trợ các loại cpu sau) Công nghệ CPU: 2th Gen Intel® Core™ i RAM Dung lượng RAM:4 GB upto Max 32GB Loại RAM: DDR3 Tốc độ BUS: 1333Mhz Đĩa cứng ( Máy có hỗ trợ HDD và SSD ) Dung lượng ổ đĩa: HDD 500GB or 1TB [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/hp-elitebook-8560w/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dell Inspiron 7559</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/dell-inspiron-7559/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/dell-inspiron-7559/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 00:18:16 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=327</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/dell-inspiron-7559/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Asus ViviBook A412FA</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/asus-vivibook-a412fa/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/asus-vivibook-a412fa/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 00:14:56 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=325</guid>
+
+					<description><![CDATA[Thương hiệu: Asus CPU ( dòng máy có thể hỗ trợ các loại cpu sau) Công nghệ CPU: 10th Gen Intel® Core™ i RAM Dung lượng RAM:8 GB upto Max 20GB Loại RAM: DDR4 Tốc độ BUS: 2666Mhz Đĩa cứng ( Máy có hỗ trợ HDD và SSD ) Dung lượng ổ đĩa: SSD 512GB Màn hình [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/asus-vivibook-a412fa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Asus TUF FX506LI</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/asus-tuf-fx506li/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/asus-tuf-fx506li/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 00:12:42 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=323</guid>
+
+					<description><![CDATA[Thương hiệu: Asus CPU ( dòng máy có thể hỗ trợ các loại cpu sau) Công nghệ CPU: 10th Gen Intel® Core™ i RAM Dung lượng RAM:16 GB upto Max 32GB Loại RAM: DDR4 Tốc độ BUS: 2933Mhz Đĩa cứng ( Máy có hỗ trợ HDD và SSD ) Dung lượng ổ đĩa: SSD 512GB Màn hình [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/asus-tuf-fx506li/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Asus TP300LA</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/asus-tp300la/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/asus-tp300la/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 00:09:53 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=309</guid>
+
+					<description><![CDATA[Thương hiệu: Asus CPU Công nghệ CPU: 5th Gen Intel® Core™ i5 RAM Dung lượng RAM:8 GB Loại RAM: DDR3L Tốc độ BUS: 1600Mhz Đĩa cứng Dung lượng ổ đĩa: SSD 240GB Màn hình Công nghệ MH: Cảm ứng xoay 360 Kích thước MH (inch):  14 inch Độ phân giải: 1366 x 768 ( HD ) Card đồ [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/asus-tp300la/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MX MASTER 2S</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/mx-master-2s/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/mx-master-2s/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 16:12:09 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=216</guid>
+
+					<description><![CDATA[KÍCH THƯỚC Chuột Cao x Rộng x Dài: 126,0 mm x 85,7 mm x 48,4 mm Trọng lượng: 145 g &#160; Đầu thu Unifying Cao x Rộng x Dài: 18,4 mm x 14,4 mm x 6,6 mm Trọng lượng: 2 g YÊU CẦU HỆ THỐNG Đầu thu USB &#160; Yêu cầu: cổng USB có sẵn [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/mx-master-2s/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WiFi 6 Asus RT-AX82U Gundam Edition</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/wifi-6-asus-rt-ax82u-gundam-edition/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/wifi-6-asus-rt-ax82u-gundam-edition/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 17:05:10 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=221</guid>
+
+					<description><![CDATA[Thông số kỹ thuật Model Name RT-AX82U Network Standard IEEE 802.11a IEEE 802.11b IEEE 802.11g IEEE 802.11n IEEE 802.11ac IEEE 802.11ax IPv4 IPv6 AX technology Yes Data Rate 802.11a : up to 54 Mbps 802.11b : up to 11 Mbps 802.11g : up to 54 Mbps 802.11n : up to 300 Mbps 802.11ac (1024QAM) : [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/wifi-6-asus-rt-ax82u-gundam-edition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WiFi 6 ROG Rapture GT-AX11000</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/wifi-6-rog-rapture-gt-ax11000/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/wifi-6-rog-rapture-gt-ax11000/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 16:49:49 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=222</guid>
+
+					<description><![CDATA[Độ phủ sóng: 600 m2: Công ty, Nhà Hàng, Khách sạn, Quán Café, Quán Game &#8211; 90-120 thiết bị ASUS GT-AX11000 (Gaming Router) chuẩn 802.11ax, tốc độ AX11000. &#8211; Hỗ trợ WTFast, AiMesh, bảo vệ mạng AiProtection 3 băng tần bao gồm 2.4Ghz:1148Mbps + 5GHz: 4804Mbps + 5GHz: 4804Mbps , 8 ăng-ten rời 5dBi. Cổng: 4 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/wifi-6-rog-rapture-gt-ax11000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bàn phím Razer Blackwidow V3</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/ban-phim-razer-blackwidow-v3/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/ban-phim-razer-blackwidow-v3/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 16:26:02 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=218</guid>
+
+					<description><![CDATA[THÔNG SỐ KĨ THUẬT SWITCH TYPE Razer™ Green/ Razer™ Yellow Mechanical Switch KEY FEEL Tactile and Clicky/ Linear SIZES Full Size LIGHTING Razer Chroma™ backlighting with 16.8 million customizable color options WRIST REST Yes ONBOARD MEMORY Hybrid onboard storage – up to 5 profiles MEDIA KEYS Yes PASSTHROUGH None CONNECTIVITY Wired &#8211; Attached KEYCAPS Doubleshot [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/ban-phim-razer-blackwidow-v3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

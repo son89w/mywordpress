@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thiết bị mạng &amp; an ninh &#8211; DoLaShop</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/thiet-bi-mang-an-ninh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://son89w.github.io/mywordpress</link>
+	<description>Nguyễn Hoàng Châu</description>
+	<lastBuildDate>Thu, 24 Jun 2021 17:07:38 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>WiFi 6 Asus RT-AX82U Gundam Edition</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/wifi-6-asus-rt-ax82u-gundam-edition/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/wifi-6-asus-rt-ax82u-gundam-edition/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 17:05:10 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=221</guid>
+
+					<description><![CDATA[Thông số kỹ thuật Model Name RT-AX82U Network Standard IEEE 802.11a IEEE 802.11b IEEE 802.11g IEEE 802.11n IEEE 802.11ac IEEE 802.11ax IPv4 IPv6 AX technology Yes Data Rate 802.11a : up to 54 Mbps 802.11b : up to 11 Mbps 802.11g : up to 54 Mbps 802.11n : up to 300 Mbps 802.11ac (1024QAM) : [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/wifi-6-asus-rt-ax82u-gundam-edition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WiFi 6 ROG Rapture GT-AX11000</title>
+		<link>https://son89w.github.io/mywordpress/cua-hang/wifi-6-rog-rapture-gt-ax11000/</link>
+					<comments>https://son89w.github.io/mywordpress/cua-hang/wifi-6-rog-rapture-gt-ax11000/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoàng Châu]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 16:49:49 +0000</pubDate>
+				<guid isPermaLink="false">https://son89w.github.io/mywordpress/?post_type=product&#038;p=222</guid>
+
+					<description><![CDATA[Độ phủ sóng: 600 m2: Công ty, Nhà Hàng, Khách sạn, Quán Café, Quán Game &#8211; 90-120 thiết bị ASUS GT-AX11000 (Gaming Router) chuẩn 802.11ax, tốc độ AX11000. &#8211; Hỗ trợ WTFast, AiMesh, bảo vệ mạng AiProtection 3 băng tần bao gồm 2.4Ghz:1148Mbps + 5GHz: 4804Mbps + 5GHz: 4804Mbps , 8 ăng-ten rời 5dBi. Cổng: 4 [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://son89w.github.io/mywordpress/cua-hang/wifi-6-rog-rapture-gt-ax11000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
